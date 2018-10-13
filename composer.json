@@ -1,0 +1,21 @@
+{
+    "name": "thomisticus/swagger-generator",
+    "description": "Swagger Generator for Thomisticus Laravel Generator",
+    "keywords": [
+        "thomisticus",
+        "laravel",
+        "swagger",
+        "templates",
+        "generator"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Moraes",
+            "email": "igor.sgm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
